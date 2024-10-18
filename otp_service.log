@@ -1,0 +1,73 @@
+ERROR:root:Failed to send OTP to sethy1565@gmail.com: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+ERROR:root:Error closing the SMTP server: local variable 'server' referenced before assignment
+ERROR:root:Failed to send OTP to sethy1565@gmail.com: Connection unexpectedly closed: [WinError 10054] An existing connection was forcibly closed by the remote host
+ERROR:root:Error closing the SMTP server: please run connect() first
+ERROR:root:Failed to send OTP to sethy1565@gmal.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-71e773a2fc7sm4699518b3a.54 - gsmtp')
+INFO:root:OTP sent to sethy1565@gmail.com at 1729170915.678973
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729170978.6439755
+WARNING:root:Incorrect OTP.
+INFO:root:OTP validated successfully.
+ERROR:root:Failed to send OTP to sethy1565@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7ea9c6d392esm4929522a12.44 - gsmtp')
+INFO:root:OTP sent to sethy1565@gmail.com at 1729171358.2441392
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729171701.906653
+INFO:root:OTP validated successfully.
+WARNING:root:Incorrect OTP.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729171730.535942
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729171823.47059
+INFO:root:OTP validated successfully.
+INFO:root:OTP validated successfully.
+ERROR:root:Failed to send OTP to sethy1565@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-20d18036606sm44181965ad.150 - gsmtp')
+INFO:root:OTP sent to sethy1565@gmail.com at 1729172105.0770135
+INFO:root:OTP sent to sethy1565@gmail.com at 1729172319.7037113
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729172360.1364968
+INFO:root:OTP sent to sethy1565@gmail.com at 1729172648.0941808
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729172923.9048963
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729173331.4161828
+INFO:root:OTP sent to sethy1565@gmail.com at 1729173643.3075426
+INFO:root:OTP sent to sethy1565@gmail.com at 1729173733.6888745
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729173839.2037954
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729173938.245259
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729174247.317603
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729174626.524418
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729174866.8045568
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to sethy1565@gmail.com at 1729174996.2710247
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+INFO:root:OTP validated successfully.
+INFO:root:OTP sent to arijsatya@gmail.com at 1729220878.7229893
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+WARNING:root:Incorrect OTP.
+INFO:root:OTP validated successfully.
